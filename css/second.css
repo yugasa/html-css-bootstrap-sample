@@ -1,0 +1,82 @@
+body{
+font-family: 'Open Sans', sans-serif;
+}
+.header_top2{
+     background:#fffff;
+    padding: 40px 90px 50px 50px;
+}
+span a{
+color:1612c6;
+font-family: Arial ;
+font-size:16px;
+
+
+}
+.header_top2 span {
+color:1612c6;
+font-family: Arial ;
+font-size:16px;
+padding: 0px 0px 0px 20px;
+
+}
+
+
+
+.how_loansahyog
+{
+color:#002E5B;
+text-align:center;
+font-family: Arial ;
+font-size:40px;
+font-weight:Bold;
+padding: 5px 0px 10px 0px;
+
+}
+#sahyogess{
+color:#ED6506;
+text-align:center;
+font-family: Arial ;
+font-size:40px;
+font-weight: 900;
+padding: 0px 0px 0px 0px;
+
+}
+
+}
+.description{
+
+color:#000000;
+font-size:14px;
+font-family: Arial;
+font-weight: 900;
+line-height: 200%;
+text-align:justify;
+padding: 10px 0px 0px 0px;
+}
+
+.media-heading {
+    margin-top: 10px;
+    margin-bottom: 5px;
+    color:#000000;
+    font-family: Arial;
+    font-weight: 900;
+    padding: 0px 0px 0px 20px;
+    
+}
+
+.media-body p{
+color:#000000;
+text-align:justify;
+font-family: Arial;
+font-size:15px;
+line-height: 200%;
+padding: 5px 0px 0px 20px;
+
+}
+
+
+
+
+
+@media (max-width:768px){
+
